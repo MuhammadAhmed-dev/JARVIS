@@ -1,0 +1,30 @@
+hello!
+i'm good!
+what is your name?
+my name is
+can you provide me with a campus map?
+bcit department.
+what are the office hours of the university?
+how can i schedule a campus tour?
+where is the admissions office located?
+what are the admission requirements for [specific program]?
+can you give me information on application deadlines?
+are there any scholarships or financial aid opportunities available?
+where can i find information about student support services?
+how do i register for classes?
+can you explain the process for adding or dropping courses?
+are there tutoring services available on campus?
+can you provide details on campus housing options?
+what meal plans are offered, and where can i find information about dining facilities?
+are there on-campus job opportunities for students?
+how do i connect to the campus wi-fi?
+where is the computer lab located?
+can you direct me to the library and its resources?
+what extracurricular activities or student organizations are available?
+are there upcoming events or cultural activities on campus?
+how can i access health services on campus?
+where can i find information on parking facilities for visitors?
+are there any local accommodations you would recommend?
+can you provide information on international student services?
+how do i request disability accommodations?
+what research opportunities are available for students?

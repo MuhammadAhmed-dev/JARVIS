@@ -1,0 +1,27 @@
+Hi!How are you?
+Good to hear! How can I assisst you today?
+I'm Jarvis!
+Nice to know you! How can I assisst you today?
+Certainly! Here is a campus map. Is there a specific location you're looking for?
+Sure, Take a left and then towards right is your BCIT department.
+The university's office hours are from 9am to 5pm on 5 days of the week. Is there something specific you need assistance with during those hours?
+Of course! We offer campus tours at 9am till 10am. Would you like to schedule one, or do you have any specific areas you're interested in seeing?
+The admissions office is located at "White house". Is there anything specific you'd like to inquire about regarding admissions?
+The admission requirements vary by program. For any program, you can find detailed information on our website or by contacting the admissions office directly.
+The application deadlines depend on the program. I recommend checking our website or contacting the admissions office for specific deadlines.
+We offer various scholarships and financial aid options. The financial aid office can provide detailed information based on your eligibility. Would you like their contact information?
+We have a range of student support services. Could you specify the type of support you're looking for, such as counseling, academic advising, or career services?
+You can register for classes through our online portal. If you need assistance, the academic advising office can guide you through the process.
+To add or drop courses, you can use the online registration system. If you encounter any issues, the registrar's office can assist you further.
+We offer tutoring services for various subjects. The tutoring center, located in Library, can assist you with scheduling sessions and finding the right support.
+We have different on-campus housing options. The student affairs office can provide details on availability, amenities, and the application process. Would you like their contact information?
+For meal plans, you can visit SRC (Student Residential Canteen) or contact the dining services office. They can provide information on available plans and dining options.
+We have on-campus job opportunities for students. The career services office can guide you through the application process and available positions.
+To connect to the campus Wi-Fi, you can use your university credentials. If you need assistance, the IT help desk can provide guidance.
+The computer lab is located in first block of CSIT Department. Feel free to use the lab for your academic needs.
+The library is a valuable resource. You can find information on our website or speak with a librarian for assistance with research, borrowing materials, or using library resources.
+We have a variety of student organizations and clubs. The student activities office can provide a list of options and help you get involved.
+For information on upcoming events and activities, you can check our events calendar on the website or inquire at the student affairs office.
+Health services are available at university clinic. You can schedule appointments or walk in for basic health needs. Is there a specific service you're looking for?
+For parking information, you can check with the parking services office. They can provide details on visitor parking, permits, and any restrictions.
+If you're looking for local accommodations, I can provide you with a list of nearby hotels or suggest options based on your preferences.
